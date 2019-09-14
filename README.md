@@ -1,7 +1,8 @@
 # Dialogue System
 *Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json daarna maakte ik een standaard
+Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json. Daarna maakte ik een standaard dialogue system met een list om het modulair tehouden. Ik daarna json te implementer maar json array`s en unity gaan blijkbaar niet samen na nog wat testen kwam ik er achter dat je .txt bestanden kon gebruiken en het systeem werkte daarna snel. 
+
 ## Features
 Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
@@ -30,5 +31,5 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [unity json utiltiy documentation](https://docs.unity3d.com/ScriptReference/JsonUtility.html)
-- [Alleatoric Algorithms](link)
+- [unity answers turn text.split](https://answers.unity.com/questions/577256/split-textasset-into-list.html)
 - [Flood-Fill Wikipedia](link)
