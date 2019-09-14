@@ -19,11 +19,8 @@ public class DialogueSystem : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!isDialogueRunning && Input.anyKeyDown)
-        {
-            StartDialogue();
-        }
-        else if (isDialogueRunning && Input.anyKeyDown)
+
+        if (isDialogueRunning && Input.anyKeyDown)
         {
             ProceedDialogue();
         }
@@ -41,7 +38,7 @@ public class DialogueSystem : MonoBehaviour
     {
         _index++;
 
-        if (UD.dialogue.Count -1 < _index)
+        if (UD.dialogue.Length -1 < _index)
         {
             print("stopped");
             StopDialogue();
@@ -56,6 +53,12 @@ public class DialogueSystem : MonoBehaviour
     {
         _textbox.text = "";
         isDialogueRunning = false;
-    } 
-
+    }
+    private void OnMouseDown()
+    {
+        if (!isDialogueRunning && Input.anyKeyDown)
+        {
+            StartDialogue();
+        }
+    }
 }

@@ -5,13 +5,13 @@ using System.IO;
 
 public class UnitDialogue : MonoBehaviour
 {
-    [SerializeField]
-    private string path;
-    private string json;
-    public List<string> dialogue = new List<string>();
+    public string[] dialogue;
+    [SerializeField] private string file; 
+    TextAsset doc;
 
     private void Start()
     {
-        
+        doc = Resources.Load("text files/"  + file) as TextAsset;
+        dialogue = doc.text.Split("\n"[0]);
     }
 }

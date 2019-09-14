@@ -5,16 +5,30 @@ using UnityEngine;
 
 public class JsonTest : MonoBehaviour
 {
-    public string docpath;
-    // Start is called before the first frame update
-    void Start()
-    {
+    Document doc = new Document();
 
-    }
+    [SerializeField]
+    private string path;
+    // private string json;
+    public List<string> dialogue;
 
-    // Update is called once per frame
-    void Update()
+    private void Start()
     {
-        
+        TextAsset json = Resources.Load("Json files/document") as TextAsset;
+        print(json.text);
+
+        doc = JsonUtility.FromJson<Document>(json.text);
+        print(doc.Dialogue);
+
+
+
+
+        foreach (line item in doc.Dialogue)
+        {
+            print(item);
+        }
+
+
+        //doc.Dialogue;
     }
 }
