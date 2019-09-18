@@ -14,9 +14,18 @@ het extern obslaan van variablen
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | maak standaard dialogue system | --- |
+| --- | --- | --- | --- | --- | --- |
 |week 1 |
 |week 2 |
+
+week 1: 
+woensdag- donderdag :werk aan standaard dialoog systeem
+donderdag - vrijdag : poging json implementatie
+vrijdag - zondag : impementeer txt bestanden 
+week 2:
+werken aan de readme
+
+
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
