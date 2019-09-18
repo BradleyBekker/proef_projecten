@@ -1,4 +1,5 @@
-
+##Dialogue system(http://bradleybekker.com/bulds/dialogue/)
+klick full screen
 Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json. Daarna maakte ik een standaard dialogue system met een list om het modulair tehouden. Ik daarna json te implementer maar json array`s en unity gaan blijkbaar niet samen na nog wat testen kwam ik er achter dat je .txt bestanden kon gebruiken en het systeem werkte daarna snel. 
 
 ## Features
