@@ -14,7 +14,7 @@ het extern obslaan van variablen
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | maak standaard dialogue system | --- |
 |week 1 |
 |week 2 |
 
