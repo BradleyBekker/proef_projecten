@@ -1,22 +1,15 @@
-# Dialogue System
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
+## [Dialogue system](http://bradleybekker.com/bulds/dialogue/)
+klick full screen
+Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json. Daarna maakte ik een standaard dialogue system met een list om het modulair tehouden. Ik daarna json te implementer maar json array`s en unity gaan blijkbaar niet samen na nog wat testen kwam ik er achter dat je .txt bestanden kon gebruiken en het systeem werkte daarna snel. 
 
-Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json daarna maakte ik een standaard
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
-
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+basic dialogue system waar de text apart word geladen 
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
-
-## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+unity is gekozen voor gemak waarmee 2 van de zelfde gameobjecten verschillende variablen kunnen hebben
+## Leerdoelen
+het maken van een dialoog systeem dat gemakkelijk in een ander project kan worden gebruikt
+het extern obslaan van variablen
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
@@ -26,9 +19,18 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 |week 1 |
 |week 2 |
 
+week 1: 
+woensdag- donderdag :werk aan standaard dialoog systeem
+donderdag - vrijdag : poging json implementatie
+vrijdag - zondag : impementeer txt bestanden 
+week 2:
+werken aan de readme
+
+
+
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [unity json utiltiy documentation](https://docs.unity3d.com/ScriptReference/JsonUtility.html)
-- [Alleatoric Algorithms](link)
+- [unity answers turn text.split](https://answers.unity.com/questions/577256/split-textasset-into-list.html)
 - [Flood-Fill Wikipedia](link)
