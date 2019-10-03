@@ -14,8 +14,8 @@ een groot gedeelte van mijn 1ste week was werken aan mijn portofolio
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag | zondag |
 |  ---  | --- | --- | --- | --- | --- | --- | --- |
-|week 1 | --- | --- | --- | --- | --- | --- | --- |
-|week 2 | --- | --- | --- | --- | --- | --- | --- |
+|week 1 | portofolio | portofolio | portofolio | --- | --- |  room graphics gemaakt voor het dungeon project | --- |
+|week 2 | implementeren van | --- |klaar met spawning logic voor de kamers | --- | --- | --- | --- |
 
 week 1: 
 woensdag- donderdag :werk aan standaard dialoog systeem
