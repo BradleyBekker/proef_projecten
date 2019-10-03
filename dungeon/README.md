@@ -12,10 +12,10 @@ het maken van een dungeon generation systeem dat kan worden hergebruikt voor rou
 ## Planning 
 een groot gedeelte van mijn 1ste week was werken aan mijn portofolio 
 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
-|  ---  | --- | --- | --- | --- | --- |
-|week 1 | --- | --- | --- | --- | --- |
-|week 2 | --- | --- | --- | --- | --- |
+| | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag | zondag |
+|  ---  | --- | --- | --- | --- | --- | --- | --- |
+|week 1 | --- | --- | --- | --- | --- | --- | --- |
+|week 2 | --- | --- | --- | --- | --- | --- | --- |
 
 week 1: 
 woensdag- donderdag :werk aan standaard dialoog systeem
