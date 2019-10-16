@@ -17,8 +17,8 @@ een groot gedeelte van mijn 1ste week was werken aan mijn portofolio
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag | zondag |
 |  ---  | --- | --- | --- | --- | --- | --- | --- |
-|week 1 | portofolio | portofolio | portofolio | --- | --- |  room graphics gemaakt voor het dungeon project | --- |
-|week 2 | implementeren van kamer punten | begin met spawning logica |klaar met spawning logic voor de kamers | --- | --- | --- | --- |
+|week 1 | testen van de mogelijk om standaard js te gebuiken | zoeken naar een toepasselijke liberary en deze testen | begin development in phaser en maken van pixel art  | make player behaviour | make enemy behaviour and start touch controls |--- | --- |
+|week 2 | eerste test mobiel op mobiel | touch controls verbeteren |laatste beetje bug fixing & uploading| --- | --- | --- | --- |
 
 
 
