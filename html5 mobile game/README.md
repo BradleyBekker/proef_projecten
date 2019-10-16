@@ -1,13 +1,16 @@
-## [Dungeon generation(http://bradleybekker.com/bulds/dungeon/)
-klik full screen
-Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json. Daarna maakte ik een standaard dialogue system met een list om het modulair tehouden. Ik daarna json te implementer maar json array`s en unity gaan blijkbaar niet samen na nog wat testen kwam ik er achter dat je .txt bestanden kon gebruiken en het systeem werkte daarna snel. 
+## [Dungeon generation](http://24422.hosts.ma-cloud.nl/bewijzenmap/)
+
+Het objectief van deze proef opdracht was het maken van een mobile game met html en java script deze is gemaakt met de hulp van de phaser 3 liberary
 
 ## Features
-a randomized dungeon  layout every time the program is started
+de player is locked with enemy in a grid they take turs moving and you have to end your turn next to him.
+
 ## Software Anaylse 
-unity is gekozen voor gemak waarmee 2 van de zelfde gameobjecten verschillende variablen kunnen hebben
+er is uit eindelijk gekozen om de phaser liberary vanwege de grote hoeveelheid code dat ik uitelkaar kan halen om mijn eigen ding mee te maken. een nadeel van phaser is dat de examples die soms nodig hebt alleen werken in phaser 2 niet 3. 
+Eerst werdt gekeken hoelang en hoe makkelijk het zou zijn om in stardaard javascript te bouwen maar dat leek al snel geen goed idee tezien daarna is gekeken naar melon js het probleem daarmee was dat de template dingen misten en het moeilijk was de api tevinden ook heb geprobeert te kijken naar een liberary genaamt enchant js maar de website is niet meer online of is voor een hele lange tijd in onderhoud en de devs laatste tweet was in 2013.
+
 ## Leerdoelen
-het maken van een dungeon generation systeem dat kan worden hergebruikt voor rougelikes and dungeoncrawles
+het kunnen ontwikkelen van games op mobieltjes met javascript
 
 ## Planning 
 een groot gedeelte van mijn 1ste week was werken aan mijn portofolio 
@@ -17,18 +20,12 @@ een groot gedeelte van mijn 1ste week was werken aan mijn portofolio
 |week 1 | portofolio | portofolio | portofolio | --- | --- |  room graphics gemaakt voor het dungeon project | --- |
 |week 2 | implementeren van kamer punten | begin met spawning logica |klaar met spawning logic voor de kamers | --- | --- | --- | --- |
 
-week 1: 
-woensdag- donderdag :werk aan standaard dialoog systeem
-donderdag - vrijdag : poging json implementatie
-vrijdag - zondag : impementeer txt bestanden 
-week 2:
-werken aan de readme
-
 
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [unity dungeon tutorial](https://www.youtube.com/playlist?list=PLBIb_auVtBwA-qr2-WnWX0LjZXkqKu5Aj)
+- [phaser touch input](https://phaser.io/examples/v3/view/input/multitouch/two-touch-inputs)
 
+- [phaser gridmovement](http://phaser.io/examples/v3/view/game-objects/tilemap/static/grid-movement)
 
