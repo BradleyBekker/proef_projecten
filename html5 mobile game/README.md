@@ -1,4 +1,4 @@
-## [Dungeon generation](http://24422.hosts.ma-cloud.nl/bewijzenmap/)
+## [html 5 mobile game](http://24422.hosts.ma-cloud.nl/bewijzenmap/)
 
 Het objectief van deze proef opdracht was het maken van een mobile game met html en java script deze is gemaakt met de hulp van de phaser 3 liberary
 
