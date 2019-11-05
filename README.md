@@ -4,3 +4,4 @@ waaronder
  1-dialogue system
  2-dungeon generation
  3-HTML5 Mobilegame
+ 4-inventory system
