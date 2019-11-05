@@ -1,28 +1,21 @@
-## [Dungeon generation(http://bradleybekker.com/bulds/dungeon/)
-klik full screen
-Het objectief van deze proef opdracht was het maken van een dialoog systeem waar de text extern word geladen ik begon met het testen van Json. Daarna maakte ik een standaard dialogue system met een list om het modulair tehouden. Ik daarna json te implementer maar json array`s en unity gaan blijkbaar niet samen na nog wat testen kwam ik er achter dat je .txt bestanden kon gebruiken en het systeem werkte daarna snel. 
+## [Dungeon generation
+Het objectief van deze proef opdracht was het maken van een gemakkelijk herbruikbaar inventory system dat verschillende items opslaan en gebruiken dit project is gemaakt met de Monogame framework/engine
 
 ## Features
-a randomized dungeon  layout every time the program is started
+een inventorysystem dat verschillende objecten kan opslaan gebruiken
 ## Software Anaylse 
-unity is gekozen voor gemak waarmee 2 van de zelfde gameobjecten verschillende variablen kunnen hebben
+ unity zou een goede keuze zijn voor dit project vanwege scriptable object maar ik heb gekozen voor monogame al ken ik het framework minder goed dan unity het is de zelfde taal dus is dit met minimake veranderingen te gebruiken in unity en als ik een inventorysystem nodig heb voor een andere taal is dit handiger want ik hoef niet na te denken hoe ik unity's velen gespecialeseerde 
+ componenten na te bootsen.
 ## Leerdoelen
-het maken van een dungeon generation systeem dat kan worden hergebruikt voor rougelikes and dungeoncrawles
-
+het maken van een inventory system die kan worden gebruikt in veel games zoals survival, crafters, rpg .etc
 ## Planning 
-een groot gedeelte van mijn 1ste week was werken aan mijn portofolio 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag | zondag |
 |  ---  | --- | --- | --- | --- | --- | --- | --- |
 |week 1 | portofolio | portofolio | portofolio | --- | --- |  room graphics gemaakt voor het dungeon project | --- |
 |week 2 | implementeren van kamer punten | begin met spawning logica |klaar met spawning logic voor de kamers | --- | --- | --- | --- |
 
-week 1: 
-woensdag- donderdag :werk aan standaard dialoog systeem
-donderdag - vrijdag : poging json implementatie
-vrijdag - zondag : impementeer txt bestanden 
-week 2:
-werken aan de readme
+
 
 
 
