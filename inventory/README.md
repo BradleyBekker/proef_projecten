@@ -1,4 +1,4 @@
-## [Dungeon generation
+## [Inventory sysyem]
 Het objectief van deze proef opdracht was het maken van een gemakkelijk herbruikbaar inventory system dat verschillende items opslaan en gebruiken dit project is gemaakt met de Monogame framework/engine
 
 ## Features
@@ -12,8 +12,8 @@ het maken van een inventory system die kan worden gebruikt in veel games zoals s
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag | zaterdag | zondag |
 |  ---  | --- | --- | --- | --- | --- | --- | --- |
-|week 1 | portofolio | portofolio | portofolio | --- | --- |  room graphics gemaakt voor het dungeon project | --- |
-|week 2 | implementeren van kamer punten | begin met spawning logica |klaar met spawning logic voor de kamers | --- | --- | --- | --- |
+|week 1 | make it display a list of strings | making inventory class   | make inventory toggleable | --- | make items selectable |  --- | --- |
+|week 2 | make itemfunction  | testing itemimplementation & give inventory a max size | updating readme | --- | --- | --- | --- |
 
 
 
@@ -22,6 +22,6 @@ het maken van een inventory system die kan worden gebruikt in veel games zoals s
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [unity dungeon tutorial](https://www.youtube.com/playlist?list=PLBIb_auVtBwA-qr2-WnWX0LjZXkqKu5Aj)
+- []()
 
 
